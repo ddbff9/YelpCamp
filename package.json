@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ddbff9/YelpCamp#readme",
   "dependencies": {
     "ejs": "^3.1.8",
+    "ejs-mate": "^4.0.0",
     "express": "^4.18.2",
     "method-override": "^3.0.0",
     "mongoose": "^6.8.1"
